@@ -17,6 +17,8 @@ Conceptos aplicados: Basados ​​en los temas de Programación Orientada a Obj
 Creación y definición de clases. Uso de modificadores de acceso (público y privado). Declaración de propiedades con tipado estricto. Creación e instanciación de objetos. Uso de clases predefinidas como DateTime. Inclusión de archivos mediante require_once.
 
 Capturas de pantalla: Resultados de la ejecución del programa. Agregar las capturas correspondientes. imagen
+<img width="613" height="91" alt="image" src="https://github.com/user-attachments/assets/c23491cc-0f74-454d-81d8-bba8470a7307" />
+
 
 Instrucciones de ejecución:
 
