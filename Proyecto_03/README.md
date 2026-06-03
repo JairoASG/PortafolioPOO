@@ -25,9 +25,11 @@ Manejo de excepciones: Validación de datos mediante estructuras try-catch para 
 Abstracción: Separación de la lógica matemática del resto de la aplicación, permitiendo una interacción sencilla para el usuario.
 Algoritmos numéricos: Implementación de la Regla del Trapecio para aproximar el resultado de integrales definidas.
 6. Capturas de pantalla
+
 <img width="231" height="98" alt="image" src="https://github.com/user-attachments/assets/b5c1aea4-22a8-4f77-9a60-af41545f2180" />
 <img width="231" height="272" alt="image" src="https://github.com/user-attachments/assets/8f8f5e62-1ee6-4804-842d-a276d4985640" />
 <img width="350" height="322" alt="image" src="https://github.com/user-attachments/assets/912163d2-2502-41b6-a592-bd2d965eacb7" />
+
 7. Instrucciones de ejecución
 Copiar la carpeta del proyecto dentro del directorio htdocs de XAMPP.
 Abrir el Panel de Control de XAMPP e iniciar el servicio Apache.
