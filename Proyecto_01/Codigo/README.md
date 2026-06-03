@@ -29,6 +29,8 @@ Inclusión de archivos mediante require_once.
 Capturas de pantalla:
 Resultados de la ejecución del programa.
 Agregar las capturas correspondientes.
+<img width="609" height="98" alt="image" src="https://github.com/user-attachments/assets/a3d450cb-7541-47eb-b3ca-f96a15627232" />
+
 
 Instrucciones de ejecución:
 
