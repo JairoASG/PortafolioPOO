@@ -3,10 +3,15 @@ Portafolio de Proyectos — Programación Orientada a Objetos
 # Datos del Alumno
 
 Nombre: Jairo Axel Sifuentes Guevara
+
 Numero de control: 252310847
+
 Materia: Programación Orientada a Objetos
+
 Docente: Jesús Salas Marín
+
 Semestre: 2A
+
 
 # Descripción General
 
