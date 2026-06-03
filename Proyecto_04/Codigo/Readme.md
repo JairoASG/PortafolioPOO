@@ -28,6 +28,8 @@ max() y min() para encontrar los precios más altos y más bajos.
 count() para obtener el promedio de precios.
 Estructuras repetitivas: Utilización de ciclos para mostrar dinámicamente los productos registrados.
 6. Capturas de pantalla
+
+
 <img width="535" height="662" alt="image" src="https://github.com/user-attachments/assets/96cd4280-93a4-4816-98bc-cefc0978a755" />
 
 
